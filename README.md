@@ -26,7 +26,7 @@ Open http://127.0.0.1:4173. The server binds only to the local machine. Stop it 
 - App-style phone screens with fixed bottom navigation, saved-course collection, touch-sized controls, and bottom-sheet dialogs.
 - Mobile membership comparisons, safe-area support, and a home-screen manifest with app icons.
 
-All visual assets and fonts required to render the prototype are stored locally. External links open official websites. The phone UI and membership card styling are design concepts.
+All visual assets and the Italiana display font are stored locally. Body and interface text uses the system Helvetica stack (Helvetica Neue, Helvetica, then Arial on systems without Helvetica). External links open official websites. The phone UI and membership card styling are design concepts.
 
 ## Files
 
