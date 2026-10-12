@@ -1,0 +1,7 @@
+{
+  "name": "qgolf-asia-prototype",
+  "version": "2.0.0",
+  "private": true,
+  "description": "A responsive, app-style QGolf Asia website prototype",
+  "scripts": { "start": "node server.mjs", "check": "node --check app.js && node --check mobile.js && node --check server.mjs" }
+}
